@@ -1,0 +1,15 @@
+@media (max-width: 500px) {
+  .cont {
+    flex-direction: column;
+  }
+  .left {
+    margin-right: 0px!important;
+    border: none!important;
+  }
+}
+
+.left {
+    margin-right: 50px;
+    min-width: 248px;
+}
+
